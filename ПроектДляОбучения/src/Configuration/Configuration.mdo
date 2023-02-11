@@ -39,7 +39,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog.Справочник</catalogs>
