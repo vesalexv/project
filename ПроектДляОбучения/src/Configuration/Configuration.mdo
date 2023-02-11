@@ -41,5 +41,6 @@
   </languages>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog.Справочник</catalogs>
 </mdclass:Configuration>
